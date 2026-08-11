@@ -1,0 +1,46 @@
+{
+  "phases": [
+    {
+      "phase": 1,
+      "title": "Microcontroller execution",
+      "module_start": 1,
+      "module_end": 4,
+      "learning_goal": "Build visible, manipulable intuition for microcontroller execution."
+    },
+    {
+      "phase": 2,
+      "title": "Buses and acquisition",
+      "module_start": 5,
+      "module_end": 8,
+      "learning_goal": "Build visible, manipulable intuition for buses and acquisition."
+    },
+    {
+      "phase": 3,
+      "title": "RTOS behavior",
+      "module_start": 9,
+      "module_end": 12,
+      "learning_goal": "Build visible, manipulable intuition for rtos behavior."
+    },
+    {
+      "phase": 4,
+      "title": "Data movement and timing",
+      "module_start": 13,
+      "module_end": 16,
+      "learning_goal": "Build visible, manipulable intuition for data movement and timing."
+    },
+    {
+      "phase": 5,
+      "title": "Health and fault handling",
+      "module_start": 17,
+      "module_end": 20,
+      "learning_goal": "Build visible, manipulable intuition for health and fault handling."
+    },
+    {
+      "phase": 6,
+      "title": "SIL, PIL, and HIL",
+      "module_start": 21,
+      "module_end": 24,
+      "learning_goal": "Build visible, manipulable intuition for sil, pil, and hil."
+    }
+  ]
+}
